@@ -1,0 +1,7 @@
+# ignore all .zip file
+*.zip
+
+# ignore repository
+/Lecture
+/machine-learning-live-scripts
+
