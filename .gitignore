@@ -1,6 +1,9 @@
 # ignore all .zip file
 *.zip
 
+# ignore all token.mat file
+token.mat
+
 # ignore repository
 /Lecture
 /machine-learning-live-scripts
