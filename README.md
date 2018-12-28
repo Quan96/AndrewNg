@@ -1,2 +1,2 @@
 # AndrewNg
-My done exercise from Andrew Ng Machine Learning from Coursera
+Done exercise in Andrew Ng Machine Learning from Coursera
